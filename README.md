@@ -6,4 +6,4 @@
 
 *npm run dev*
 
-# Create your own .env file and provide necessary credentials for mongodb database.
+Create your own .env file and provide necessary credentials for mongodb database.
