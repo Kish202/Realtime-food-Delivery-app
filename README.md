@@ -1,6 +1,6 @@
 ##  welcome to food delivery app!!!
 
-# To run project
+To run project
 
 *npm i*
 
